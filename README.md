@@ -1,2 +1,6 @@
-# maze3d
-A simple 3D maze game
+Maze3D
+======
+
+A 3D Maze game written in JavaScript for WebGL using THREE.js.
+
+You can control the camera with up, down, right and left arrows keys or use the virtual keys on bottom right.
